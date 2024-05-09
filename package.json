@@ -1,0 +1,26 @@
+{
+  "name": "c-convertor",
+  "version": "1.0.0",
+  "description": "An npm package to convert currencies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sourabhjaiswal12016/c-currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sourabh Jaiswal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sourabhjaiswal12016/c-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/Sourabhjaiswal12016/c-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
